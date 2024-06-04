@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WangningZhang
-- 🌱 I’m currently learning simulation in sorlar wind.
+- 🌱 I’m currently learning simulation in solar wind.
 - 📫 How to reach me zhang6wang6@gmail.com
 - ⚡ Fun fact: ...
 
